@@ -1,0 +1,70 @@
+
+/* body set style */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-indent: 50px;
+}
+
+body p {
+    font-size: 24px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.bigTitle {
+    
+    text-align: left;
+    font-size: 30px; 
+    
+}
+
+.mediumTitle {
+    text-align: left;
+    
+    font-size: 26px; 
+}
+
+
+/* title page style */
+
+#titlePage p {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+#titlePage {
+    margin-bottom: 150px;
+}
+
+/* table of content */
+#tableContent  {
+    margin-bottom: 100px;
+}
+
+#tableContent p ol{
+    font-family: Arial; 
+    
+    font-weight: bold; 
+    text-align: left;
+}
+
+/* team profile */
+
+.memberName {
+    text-align: left;
+    font-size: 24px; 
+}
+
+
+
+/* tools */
+/* project description */
+/* skills and jobs */
+/* project outcome*/
+/* group reflection */
+
